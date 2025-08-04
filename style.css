@@ -133,3 +133,8 @@ footer {
   font-weight: bold;
   border-radius: 8px;
 }
+/* ===== إصلاح مشكلة التضليل فوق المحتوى ===== */
+.page * {
+  position: relative;
+  z-index: 2;
+}
