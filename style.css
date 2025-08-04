@@ -10,7 +10,7 @@ body {
 .hero {
   position: relative;
   height: 100vh;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('background.jpg.png') no-repeat center center/cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -97,7 +97,7 @@ footer {
 /* ===== تنسيق الصفحات الفرعية ===== */
 .page {
   min-height: 100vh;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('background.jpg.png') no-repeat center center/cover;
   position: relative;
   color: #fff;
   padding: 60px 20px;
