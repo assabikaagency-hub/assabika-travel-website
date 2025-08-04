@@ -29,13 +29,12 @@ body {
 
 .logo {
   position: absolute;
-  top: 65px;
+  top: 20px;
   left: 50%;
   transform: translateX(-50%);
   width: 100px;
-  z-index: 2;
+  z-index: 10;
 }
-
 
 .main-title {
   position: relative;
