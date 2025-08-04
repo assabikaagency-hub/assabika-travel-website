@@ -200,5 +200,18 @@ footer {
     text-align: right;
   }
 }
+html, body {
+  height: 100%;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.page .content {
+  flex: 1;
+}
 
 
